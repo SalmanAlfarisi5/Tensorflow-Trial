@@ -3,4 +3,6 @@
 # ───────────────────────────────
 Beginner/aclImdb_v1/
 Beginner/aclImdb_v1/aclImdb
+aclImdb_v1_archive/
+
 .env
