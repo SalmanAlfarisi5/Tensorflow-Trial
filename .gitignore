@@ -2,3 +2,5 @@
 # Datasets
 # ───────────────────────────────
 Beginner/aclImdb_v1/
+
+.env
